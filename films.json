@@ -1,147 +1,140 @@
 {
   "films": [
     {
-      "id": "1",
+      "id": 1,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BMjAyMTg0MjgwOV5BMl5BanBnXkFtZTcwNTEzODY4Mw@@._V1._SX94_SY140_.jpg",
       "description": "The extraordinary story of three Rwandan kids who walk 3000 miles to the Soccer World Cup in South Africa...",
       "rating": 6.2,
       "title": "Africa United"
     },
     {
-      "id": "2",
+      "id": 2,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BMjAyNDcxNTk3NV5BMl5BanBnXkFtZTcwMjk4MDU2NA@@._V1._SX94_SY140_.jpg",
       "description": "A young man is rocked by two announcements from his elderly father: that he has terminal cancer, and that he has a young male lover.",
       "rating": 7.2,
       "title": "Beginners"
     },
     {
-      "id": "3",
+      "id": 3,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BMjIzMjY4MTk2M15BMl5BanBnXkFtZTcwNzQ3ODg3NQ@@._V1._SX94_SY140_.jpg",
       "description": "A kid from the Midwest moves out to Hollywood in order to follow in his parents footsteps -- and become a porn star.",
       "rating": 3.0,
       "title": "Bucky Larson : Born to Be a Star"
     },
     {
-      "id": "4",
+      "id": 4,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BMTU1ODkyNDkwOV5BMl5BanBnXkFtZTcwNzI2MTcyMQ@@._V1._SX94_SY140_.jpg",
       "description": "The story of what happens after a master thief achieves his last big score, when the FBI agent who promised he'd capture him is about to do just that.",
       "rating": 6.2,
       "title": "Coup d'\u00e9clat"
     },
     {
-      "id": "5",
+      "id": 5,
       "cover_url": null,
       "description": "D'un film \u00e0 l'autre (From One Film to Another) is an anthology documentary produced by Les Films 13...",
       "rating": 6.4,
       "title": "D'un film \u00e0 l'autre"
     },
     {
-      "id": "6",
+      "id": 6,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BMjI2NTk5NjkzOV5BMl5BanBnXkFtZTcwODgwODg0NA@@._V1._SX94_SY140_.jpg",
       "description": "This is not the way it was supposed to happen. Like every other morning, Christian Echeveria, huissier...",
       "rating": 5.8,
       "title": "Dernier \u00e9tage, gauche, gauche"
     },
     {
-      "id": "7",
+      "id": 7,
       "cover_url": null,
       "description": "An investigation on the management of 2009 L'Aquila earthquake by Berlusconi government and his staff.",
       "rating": 7.7,
       "title": "Draquila : l'Italie qui tremble"
     },
     {
-      "id": "8",
+      "id": 8,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BMjEzODQ0MzEwMl5BMl5BanBnXkFtZTcwNzI4MTgwNg@@._V1._SX94_SY140_.jpg",
       "description": "An exiled detective is recruited to solve a series of mysterious deaths that threaten to delay the inauguration of Empress Wu.",
       "rating": 6.6,
       "title": "D\u00e9tective Dee : le myst\u00e8re de la flamme fant\u00f4me"
     },
     {
-      "id": "9",
+      "id": 9,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BMTIxMDUzNjU5NF5BMl5BanBnXkFtZTcwMDY1MTQyMQ@@._V1._SX94_SY140_.jpg",
       "description": "A complete imbecile struggles to make it through life on his own, until a strange invention makes him unbelievably wealthy.",
       "rating": 7.0,
       "title": "Easy Money"
     },
     {
-      "id": "10",
+      "id": 10,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BMTM0ODk3MjM1MV5BMl5BanBnXkFtZTcwNzc1MDIwNA@@._V1._SX94_SY140_.jpg",
       "description": "A look at the early years of boxer \"Irish\" Micky Ward and his brother who helped train him before going pro in the mid 1980s.",
       "rating": 7.9,
       "title": "Fighter"
     },
     {
-      "id": "11",
+      "id": 11,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BOTUxNTAzNDE1NF5BMl5BanBnXkFtZTcwMTE1NzYwNA@@._V1._SX94_SY140_.jpg",
       "description": "The story of Giancarlo Siani, a journalist killed by the Neapolitan Mafia in 1985.",
       "rating": 7.1,
       "title": "Fortap\u00e0sc"
     },
     {
-      "id": "12",
+      "id": 12,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BMTY3ODU5NDQ4OV5BMl5BanBnXkFtZTcwOTMxMjg0Nw@@._V1._SX94_SY140_.jpg",
       "description": "Gianni is a retiree who has become invisible to most everyone around him. In response, he tries his best to generate some kind of extracurricular love life.",
       "rating": 5.9,
       "title": "Gianni et les femmes"
     },
     {
-      "id": "13",
+      "id": 13,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BMjIwNTM4Njg2NF5BMl5BanBnXkFtZTcwNDQwMTAwNA@@._V1._SX94_SY140_.jpg",
       "description": "A vengeful father escapes from hell and chases after the men who killed his daughter and kidnapped his granddaughter.",
       "rating": 5.5,
       "title": "Hell Driver"
     },
     {
-      "id": "14",
+      "id": 14,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BMTY1NjE1NTE0MV5BMl5BanBnXkFtZTcwOTYzNjUzNA@@._V1._SX94_SY140_.jpg",
       "description": "When his pregnant fiancee becomes the latest victim of a serial killer, a secret agent blurs the line between good and evil in his pursuit of revenge.",
       "rating": 7.8,
       "title": "J'ai rencontr\u00e9 le diable"
     },
     {
-      "id": "15",
+      "id": 15,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BMTMzNjE4NDU1NF5BMl5BanBnXkFtZTcwMTAwNzQ0Mw@@._V1._SX94_SY140_.jpg",
       "description": "In Brooklyn, a youth from an Orthodox Jewish community is lured into becoming an Ecstasy dealer by his pal who has ties to an Israeli drug cartel.",
       "rating": 5.7,
       "title": "Jewish Connection"
     },
     {
-      "id": "15",
-      "cover_url": null,
-      "description": null,
-      "rating": 5.6,
-      "title": "Jimmy Rivi\u00e8re"
-    },
-    {
-      "id": "16",
+      "id": 16,
       "cover_url": null,
       "description": "A hot young Wall Street trader finds a formula based on climatology to play the market and win big... but at what cost?",
       "rating": 4.3,
       "title": "Krach"
     },
     {
-      "id": "17",
+      "id": 17,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BMjA5ODk2NDI3Nl5BMl5BanBnXkFtZTcwMTYxMjI0Mw@@._V1._SX94_SY140_.jpg",
       "description": "A true-story account of a German businessman who saved  than 200,000 Chinese during the Nanjing massacre in 1937-38.",
       "rating": 7.1,
       "title": "John Rabe"
     },
     {
-      "id": "18",
+      "id": 18,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BMjI4NTYzNzQwNl5BMl5BanBnXkFtZTcwOTk1MzA4NQ@@._V1._SX94_SY140_.jpg",
       "description": null,
       "rating": 4.6,
       "title": "L'\u00e9l\u00e8ve Ducobu"
     },
     {
-      "id": "19",
+      "id": 19,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BODQ3NTM0Nzg3OV5BMl5BanBnXkFtZTcwMTE3MDMxNw@@._V1._SX94_SY140_.jpg",
       "description": "Toru recalls his life in the 1960s, when his friend Kizuki killed himself and he grew close to Naoko, Kizuki's girlfriend, and another woman, the outgoing, lively Midori.",
       "rating": 6.4,
       "title": "La ballade de l'impossible"
     },
     {
-      "id": "20",
+      "id": 20,
       "cover_url": "http://ia.media-imdb.com/images/M/MV5BMTY5ODMyMDY4NF5BMl5BanBnXkFtZTcwNDgwMDEyMQ@@._V1._SX94_SY140_.jpg",
       "description": "Holden and Banky are comic book artists. Everything's going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but his hopes are crushed when he finds out she's a lesbian.",
       "rating": 7.4,
